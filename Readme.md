@@ -7,5 +7,6 @@
 - Exercises 1.12 - 1.14
 
 ## Part 2
-- Exercises 2.1-2.5
+- Exercises 2.1 - 2.5
+- Evercises 2.6 - 2.10
 
